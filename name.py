@@ -13,15 +13,15 @@
 
 
 #---------Type conversion---------
-var1='1'
+# var1='1'
 
-x=int(var1)
-print(x) 
-print(type(x))
+# x=int(var1)
+# print(x) 
+# print(type(x))
 
-y=float(x)
-print(y) 
-print(type(y))
+# y=float(x)
+# print(y) 
+# print(type(y))
 
 # z=complex(y)
 # print(z) 
